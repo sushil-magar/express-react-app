@@ -1,5 +1,5 @@
 # express-react-app
-Showcases react + express app
+Showcases react app
 
 # Instructions
 1. `npm install` or `yarn install`
