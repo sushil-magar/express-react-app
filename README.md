@@ -1,5 +1,5 @@
-# express-react-app
-Showcases react app
+# React + Material UI
+Showcases react app with Material UI
 
 # Instructions
 1. `npm install` or `yarn install`
